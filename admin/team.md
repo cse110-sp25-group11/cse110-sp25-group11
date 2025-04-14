@@ -72,7 +72,9 @@ Hello! I'm Alan and I am a third year computer science student at Muir college!
 Aside from programming, some of my hobbies include: 
 - Drawing (I hope to be a freelance artist on the side one day)
 - Listening to music (favorite band of all time is My Chemical Romance)
-- Playing video games (fun fact: I've been playing Smash Bros since I was 8) 
+- Playing video games (fun fact: I've been playing Smash Bros since I was 8)
+
+Also check out my [Github](https://github.com/AlanDeLuna18) for other cool stuff I've done!
 
 #### Mia
 <img src = "photos/mia.JPG" width="125" height="150"><br>
