@@ -107,3 +107,16 @@ Anyway, aside from rotting away all day in my room, here's a few things I LOVE d
 2) Making origami
 3) Eeating out and trying new cafes!
 4) Rotting in my room
+5) 
+### Prasham
+<img src = "photos/prasham.jpg" width="125" height="150"><br>
+
+Hey! I am a 2nd year Computer Science major from Sixth College. My github profile is [here](https://github.com/orashamshah115).
+
+My hobbies are: 
+
+* Working out, running, and hiking
+* Watching sports, especially formula 1 and tennis
+* Travelling and exploring places
+  
+
