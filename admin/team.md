@@ -111,7 +111,7 @@ Anyway, aside from rotting away all day in my room, here's a few things I LOVE d
 ### Prasham
 <img src = "photos/prasham.jpg" width="125" height="150"><br>
 
-Hey! I am a 2nd year Computer Science major from Sixth College. My github profile is [here](https://github.com/orashamshah115).
+Hey! I am a 2nd year Computer Science major from Sixth College. My github profile is [here](https://github.com/prashamshah115).
 
 My hobbies are: 
 
