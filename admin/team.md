@@ -34,6 +34,8 @@ We, as a team, follow these core values:
 
 ### Team Leads
 
+#### Charles
+
 <img src = "photos/charlesnguyen.jpeg" width="125" height="150"><br>
 
 Hi everyone! My name is Charles Nguyen and I am a second year Computer Science major at UCSD.
@@ -45,6 +47,8 @@ I am a webmaster and Vice Chair Finance for IEEEUCSD and have experience in the 
 -   WebDev
 
 You can visit my website by clicking [here](https://chark1es.dev)
+
+#### Prasham
 
 <img src = "photos/IMG_1776.png" width="125" height="150"><br>
 
@@ -174,5 +178,3 @@ Anyway, aside from rotting away all day in my room, here's a few things I LOVE d
 3. Eeating out and trying new cafes!
 4. Rotting in my room
 5.
-
-### Prasham
