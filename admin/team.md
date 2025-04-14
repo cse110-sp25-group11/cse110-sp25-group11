@@ -69,7 +69,7 @@ When I have free time I like to:
 Fun Fact: I have a Pokemon card addiction and its not healthy.
 
 #### Alan
-<img src = "photos/Alan Headshot.png" width="125" height="120"><br>
+<img src = "photos/Alan_Forest.jpeg" width="125" height="120"><br>
 
 Hello! I'm Alan and I am a third year computer science student at Muir college! 
 
