@@ -4,7 +4,25 @@
 
 ## Core Values
 
+1.	Ship It Real Good 🚀
 
+We value getting things done—not just talking about it. Progress over perfection, always (but like… tested perfection, not chaos).
+
+2.	No Ego, Just Git Blame 🔍
+
+We take responsibility, not offense. It’s about fixing the code, not finger-pointing (even if git blame snitches).
+
+3.	Learn, Unlearn, Relearn 🧠
+
+Tech changes. We stay curious, embrace being wrong, and laugh in the face of deprecated libraries.
+
+4.	Make It Make Sense 📚
+
+Clean, readable, and documented code isn’t a luxury—it’s a love letter to your future self (or that poor soul who has to maintain it).
+
+5.	Collab Over Collapse 🤝
+
+We value good communication, pair programming, and supporting each other—especially during 3 AM deploy disasters.
 
 ## About our Team
 
@@ -107,7 +125,7 @@ Anyway, aside from rotting away all day in my room, here's a few things I LOVE d
 2) Making origami
 3) Eeating out and trying new cafes!
 4) Rotting in my room
-5) 
+ 
 ### Prasham
 <img src = "photos/IMG_1776.png" width="125" height="150"><br>
 
