@@ -1,6 +1,10 @@
 # The 11X developers
 
+<img src="branding/closeupMascot.jpeg" height="240">
+
 ## Core Values
+
+
 
 ## About our Team
 
