@@ -27,6 +27,8 @@ Hello! I'm a third-year at UCSD majoring in Computer Science. Some of my hobbies
   
 A fun fact about me is I recently travelled to Boston to compete in the annual National Collegiate Team Tournament representing UCSD
 
+See my Github profile [here](https://github.com/wyatt-fong)
+
 #### Lucas
  <img src="photos/lucas.jpeg" width="125" height="120"><br>
  
