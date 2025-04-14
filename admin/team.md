@@ -109,7 +109,7 @@ Anyway, aside from rotting away all day in my room, here's a few things I LOVE d
 4) Rotting in my room
 5) 
 ### Prasham
-<img src = "photos/prasham.jpg" width="125" height="150"><br>
+<img src = "photos/IMG_1776.png" width="125" height="150"><br>
 
 Hey! I am a 2nd year Computer Science major from Sixth College. My github profile is [here](https://github.com/prashamshah115).
 
