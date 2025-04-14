@@ -4,9 +4,47 @@
 
 ## Core Values
 
+We, as a team, follow these core values:
+
+### Collaboration
+
+-   We ensure that the work gets distributed evenly
+-   As a team, we make sure that we help each other when needed
+-   We provide equal amounts of effort and contributions towards all of our projects
+
+### Communication
+
+-   As a team, we will communicate through slack
+-   Our team leads make sure that the plan and meetings provide relevant and concise details
+-   We make sure that information is shared and that everyone is aware and updated as to what is going on
+
+### Respect
+
+-   We want to make sure that people in out team are treated with respect
+-   No member should be filling left out or isolated within our team
+-   All criticisms are educational and not used as a way to attack a person's skills.
+
+### Organization
+
+-   ALl work that we do will remain in an organized manner
+-   All projects will be stored in this organization
+-   All text messages between members will be in the relevant slack channels and slack workspace.
+
 ## About our Team
 
 ### Team Leads
+
+<img src = "photos/charlesnguyen.jpeg" width="125" height="150"><br>
+
+Hi everyone! My name is Charles Nguyen and I am a second year Computer Science major at UCSD.
+
+I am a webmaster and Vice Chair Finance for IEEEUCSD and have experience in the following:
+
+-   Docker
+-   SSO (specifically OpenID Connect)
+-   WebDev
+
+You can visit my website by clicking [here](https://chark1es.dev)
 
 <img src = "photos/IMG_1776.png" width="125" height="150"><br>
 
