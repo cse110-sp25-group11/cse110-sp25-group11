@@ -102,6 +102,7 @@ Hii! I'm a second-year Computer Science major here at UCSD. Some hobbies of mine
 -   playing video games with friends
 
 Fun Fact: I've tried to learn Chinese 4 different times in my life meaning its been around 10 years, yet I still can't speak the language 😭
+[Here's](https://github.com/lucashlaing) my GitHub page!
 
 #### **Verania Salcido**
 
