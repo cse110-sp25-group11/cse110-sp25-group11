@@ -25,3 +25,6 @@ Our team also has a template that the two code reviewers must fill out before ap
 
 ## Merging changes
 All unit tests/other checks must pass and 2 reviewers must have approved before merging can happen.
+
+
+[video](phase1.mp4)
