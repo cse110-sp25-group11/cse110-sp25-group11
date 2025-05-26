@@ -1,4 +1,4 @@
-Phase 2: GitHub CI/CD Workflow
+# Phase 2: GitHub CI/CD Workflow
 
 Follow these steps for every new feature or bugfix to ensure consistent quality, testing, documentation, and deployment.
 
@@ -32,8 +32,6 @@ coverage → Uploads data to Codacy, and the Dashboard shows coverage %, complex
 ✅ All checks must pass before merging.
 🔒 Branch protection is enabled on main, disallowing merges until all status checks pass.
 
-⸻
-
 5. Code Review & Approval
 	•	At least two team members must review and approve the PR.
 	•	Use our Code Review Template to ensure:
@@ -41,8 +39,6 @@ coverage → Uploads data to Codacy, and the Dashboard shows coverage %, complex
 	•	Adequate test coverage
 	•	Security and performance considerations
 	•	Clean commit history
-
-⸻
 
 6. Merge & Cleanup
 	1.	Click Merge once:
@@ -52,16 +48,12 @@ coverage → Uploads data to Codacy, and the Dashboard shows coverage %, complex
 	•	Keeps the repository tidy.
 	•	Prevents naming conflicts in the future.
 
-⸻
-
 7. Post-Merge Automation
 
 After merging into main:
 1.	Docs Build & Deploy
 -	Runs JSDoc to automatically generate API docs for every JavaScript function.
 -	Developers can browse the live API reference at /docs on the GitHub Pages deplotment.
-
-⸻
 
 With this pipeline in place, every merge to main delivers code that is:
 	1.	Formatted consistently
