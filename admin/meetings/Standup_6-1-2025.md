@@ -1,4 +1,4 @@
-# 🧍 Standup – 6/2/2025
+# 🧍 Standup – 6/1/2025
 
 ## Attendance
 - Benjamin Miller  
